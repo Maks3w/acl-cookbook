@@ -1,6 +1,6 @@
-# acl-cookbook
+# acl-cookbook [![Build Status](https://travis-ci.org/Maks3w/acl-cookbook.png)](https://travis-ci.org/Maks3w/acl-cookbook) [![Cookbook Version](https://img.shields.io/cookbook/v/acl.svg)](https://supermarket.getchef.com/cookbooks/acl)
 
-This recipe install the ACL package and then remount the filesystem root with it enabled.
+This cookbook installs the ACL package and then remount the filesystem root with it enabled.
 
 ## Supported Platforms
 
