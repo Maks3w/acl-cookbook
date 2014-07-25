@@ -1,7 +1,7 @@
 name 'acl'
 maintainer 'Maks3w'
 license 'MIT'
-description 'Installs/Configures acl'
+description 'Setup POSIX Access Control Lists (ACLs)'
 long_description 'Setup POSIX Access Control Lists (ACLs)'
 version '1.0.0'
 
